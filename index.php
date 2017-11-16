@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -33,3 +33,4 @@ body, html {height: 100%}
 
 </body>
 </html>
+?>
